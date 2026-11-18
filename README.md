@@ -11,7 +11,7 @@
 * 🌱 Learning **Open Source, System Design & Backend Development**
 * 🧠 Strong interest in **AI + Software Engineering**
 * 📈 Regularly solving DSA problems on LeetCode
-* 🚀 Preparing for **GSoC 2026** through active contributions
+
 
 ---
 
@@ -19,11 +19,10 @@
 
 ### 💻 Languages
 
-C, C++, Java, Python
+C, C++, Java, Python,Javascript 
 
 ### 🌐 Web Development
-
-HTML, CSS
+MERN Stack Developer 
 
 ### 🗄 Databases
 
@@ -31,7 +30,7 @@ PostgreSQL, MongoDB
 
 ### 📊 Libraries & Tools
 
-NumPy, Pandas, Matplotlib
+NumPy, Pandas, Matplotlib,Seaborn,Sklearn 
 
 ### ⚙️ Tools & Platforms
 
@@ -39,15 +38,15 @@ Git, GitHub, VS Code
 
 ### 🐧 Currently Learning
 
-Linux, Open Source Workflows, Advanced Backend
+Linux,ML, Open Source Workflows, Advanced Backend
 
 ---
 
 ## 🚀 Open Source Journey
-
+* 🌱 New to Open Source Community 
 * 🌱 Started contributing to **OWASP Nest**
 * ✅ Created and improved documentation via Pull Requests
-* 🎯 Goal: Contribute consistently & get multiple PRs merged
+* 🎯 Goal: Contribute consistently 
 
 ---
 
@@ -71,11 +70,12 @@ Linux, Open Source Workflows, Advanced Backend
 
 ## 🔥 What I'm Focused On
 
-* Open Source Contributions
 * Backend Development
 * Data Structures & Algorithms
 * Real-world Project Building
-
+* Open Source Contributions
+* Machine Learning
+* AI System 
 ---
 
 ## 📫 Connect With Me
